@@ -1,0 +1,3 @@
+import mf
+
+mf.config()
